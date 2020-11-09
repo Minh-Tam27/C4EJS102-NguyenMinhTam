@@ -1,0 +1,12 @@
+console.log('1. In order to check a variable data types, using: typeof');
+console.log('Eg: let age = 22');
+let age = 22;
+console.log('typeof(22): ' + typeof(age) );
+console.log('2. In Java Script, SyntaxError will be get in cases:');
+console.log('- Start with numbers');
+console.log('- Contain special characters (spaces also count as special characters), except _ and $');
+console.log('- Dup with the javascript keywords \n');
+console.log('Eg:');
+console.log('- Start with numbers: 2711Abc');
+console.log('- Contain special characters: t@^m');
+console.log('- Dup with the javascript keywords: let case \n');

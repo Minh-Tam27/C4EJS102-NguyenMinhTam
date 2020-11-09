@@ -1,0 +1,14 @@
+console.log('Ex 1:');
+console.log ('1. Var and const');
+console.log ('- Var used to declare variable, works like let and can be called an older version of let.');
+console.log ('- Const is costant, used to declare variable, is like let but once its value is set and it can not be changed');
+console.log ('2. Different between let and var:');
+console.log ('- Let: let can not escape a scope');
+console.log ('- Var: Var can escape a scope');
+console.log ('3. Different between let and const');
+console.log ('- Let: Let can update variable');
+console.log ('-Const: Const can not be updated');
+console.log ('4. In case:');
+console.log ('- Let: when we need the best in terms of clarity, code readability');
+console.log ('- Var: when we need use a variable while a program');
+console.log ('- Const: make sure that the variable has not changed its value');

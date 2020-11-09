@@ -1,0 +1,10 @@
+console.log ('Ex 13:');
+console.log ('let n = prompt ( ' + `${'Enter n:'}` + ' ); ' );
+console.log ('{');
+console.log ('for (var i=1; i<=n; i++)');
+console.log ('for (var j=1; j<=i+2; j++)');
+console.log ('{');
+console.log ('fd(50)');
+console.log ('lt(360/(i+2))');
+console.log ('}');
+console.log ('}');
