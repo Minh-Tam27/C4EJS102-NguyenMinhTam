@@ -1,0 +1,9 @@
+div{
+  background-color: wheat;
+  /*code vào phần bên dưới*/
+  color: hotpink;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: bold;
+}

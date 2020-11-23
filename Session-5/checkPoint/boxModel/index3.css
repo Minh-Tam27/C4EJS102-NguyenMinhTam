@@ -1,0 +1,13 @@
+#a > div {
+  background:wheat;
+  /*  code vào phần bên dưới   */
+margin: 50px 60px 50px 40px;
+}
+
+
+
+
+#a{
+  /* Không code vào đây */
+  border:1px solid black
+}
