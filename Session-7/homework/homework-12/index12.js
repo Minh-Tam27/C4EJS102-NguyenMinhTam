@@ -29,3 +29,5 @@ for(var t=0; t<td.length; t++){
 console.log('12.4:');
 console.log(ul);
 
+let newItem = document.getElementById('input');
+let addBtn = document.getElementById('add-btn');
